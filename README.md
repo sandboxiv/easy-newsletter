@@ -1,3 +1,3 @@
 # easy-newsletter
-# hello word
+# hello words
 Easy Newsletter drupal modules.
