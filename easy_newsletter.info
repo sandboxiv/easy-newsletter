@@ -1,0 +1,3 @@
+core = "7.x"
+description = "An easy newsletter module used to learn module development and forms creation."
+name = "easy_newsletter"
